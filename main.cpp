@@ -1,4 +1,4 @@
-#include <iostream> // napisz program w c++ wykorzystujący funkcje break jesli i=0, i < 10, i++ pętla ma się zatrzymać na liczbie 4
+#include <iostream> //   b napisz program w c++ wykorzystujący funkcje break jesli i=0, i < 10, i++ pętla ma się zatrzymać na liczbie 4
 using namespace std;
 
 int main() {
